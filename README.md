@@ -1,6 +1,7 @@
 ![](/images/me.jpg)
 
-![](/images/top-langs.svg)
+![](/images/top-langs-light.svg#gh-light-mode-only)
+![](/images/top-langs-dark.svg#gh-dark-mode-only)
 <!--
 **rpwachowski/rpwachowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
