@@ -1,5 +1,6 @@
 ![](/images/me.jpg)
 
+![](/images/top-langs.svg)
 <!--
 **rpwachowski/rpwachowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
